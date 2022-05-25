@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It's a Ticker component Ticker snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div />
+    <div>
+      <ul
+        class="ticker"
+      >
+        <li>
+          <ul
+            class="finance"
+          >
+            <li>
+              AAPL
+              : 
+            </li>
+            <li
+              class="price"
+            >
+              Price: 
+              246.55
+            </li>
+            <li
+              class="delta green"
+            >
+              Change: 
+              246.55
+            </li>
+            <li
+              class="percent green"
+            >
+              Percent: 
+              Infinity %
+            </li>
+            <li
+              class="visibity"
+            >
+              <button>
+                hide
+              </button>
+              <button>
+                ✘
+              </button>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="isShown"
+        >
+          <button>
+            ✚
+          </button>
+        </li>
+        <li
+          class="info hidden"
+        >
+          <ul>
+            <li>
+              Exchange:
+              <br />
+              NASDAQ
+            </li>
+            <li>
+              Change:
+              <br />
+              51.28
+            </li>
+            <li>
+              Change percent:
+              <br />
+              0.48
+            </li>
+            <li>
+              Divedend:
+              <br />
+              0.32
+            </li>
+            <li>
+              Yield:
+              <br />
+              1.34
+            </li>
+            <li>
+              Last trade time:
+              <br />
+              2022-05-23T06:28:36.000Z
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      class="ticker"
+    >
+      <li>
+        <ul
+          class="finance"
+        >
+          <li>
+            AAPL
+            : 
+          </li>
+          <li
+            class="price"
+          >
+            Price: 
+            246.55
+          </li>
+          <li
+            class="delta green"
+          >
+            Change: 
+            246.55
+          </li>
+          <li
+            class="percent green"
+          >
+            Percent: 
+            Infinity %
+          </li>
+          <li
+            class="visibity"
+          >
+            <button>
+              hide
+            </button>
+            <button>
+              ✘
+            </button>
+          </li>
+        </ul>
+      </li>
+      <li
+        class="isShown"
+      >
+        <button>
+          ✚
+        </button>
+      </li>
+      <li
+        class="info hidden"
+      >
+        <ul>
+          <li>
+            Exchange:
+            <br />
+            NASDAQ
+          </li>
+          <li>
+            Change:
+            <br />
+            51.28
+          </li>
+          <li>
+            Change percent:
+            <br />
+            0.48
+          </li>
+          <li>
+            Divedend:
+            <br />
+            0.32
+          </li>
+          <li>
+            Yield:
+            <br />
+            1.34
+          </li>
+          <li>
+            Last trade time:
+            <br />
+            2022-05-23T06:28:36.000Z
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

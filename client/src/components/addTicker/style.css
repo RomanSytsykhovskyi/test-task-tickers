@@ -1,0 +1,30 @@
+.add {
+  padding-top: 10px;
+  display: flex;
+  width: 100%;
+}
+
+.addInput {
+  padding: 15px 40px;
+  box-sizing: border-box;
+  width: 75%;
+  text-transform: uppercase;
+  border: 1px solid #3a3a3a;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.addButton {
+  padding: 15px 0;
+  width: 25%;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: #3a3a;
+  border: 1px solid #3a3a3a;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.addButton:not(.addButton:disabled) {
+  cursor: pointer;
+}

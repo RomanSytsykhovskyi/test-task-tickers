@@ -1,0 +1,12 @@
+.isShown button {
+  width: 100%;
+}
+
+.info {
+  margin-top: 10px;
+}
+
+.info ul {
+  display: flex;
+  justify-content: space-between;
+}

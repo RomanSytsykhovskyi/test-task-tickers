@@ -1,0 +1,52 @@
+.green {
+  color: #137333;
+}
+
+.red {
+  color: #a50e0e;
+}
+
+.shown {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.ticker {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #000;
+}
+
+.finance {
+  margin-bottom: 10px;
+  display: grid;
+  grid-template-columns: 10% 17% 17% 20% 17%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.visibity {
+  display: flex;
+  justify-content: space-between;
+}
+
+.visibity button {
+  cursor: pointer;
+}
+
+.visibity button:first-child {
+  padding: 5px 30px;
+  background: #c6c6c6;
+  border: 1px solid #a3a3a3;
+  border-radius: 5px;
+}
+
+.visibity button:last-child {
+  padding: 5px;
+  color: #a50e0e;
+  background: none;
+  border: none;
+}
